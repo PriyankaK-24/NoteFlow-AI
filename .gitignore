@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Uploaded media files
+uploads/*
+
+# Test media files
+test_audio.mp3
+test_video.mp4
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+# Node dependencies
+node_modules/
